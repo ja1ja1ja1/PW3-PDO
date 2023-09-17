@@ -1,0 +1,11 @@
+{
+    "name": "joaol/pw3-pdo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "sistema\\": "sistema/"
+        }
+    },
+    "require": {}
+}

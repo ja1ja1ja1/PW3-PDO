@@ -1,0 +1,17 @@
+.error:focus {
+    border: 1px solid red;
+    box-shadow: 1px red;
+}
+.aviso {
+    display:block !important;
+}
+.span-aviso{
+    font-size: small;
+    color: red;
+}
+.espaco{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
